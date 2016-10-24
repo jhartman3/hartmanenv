@@ -54,3 +54,39 @@ ul{
 	list-style-type: none;
 	margin-left: 0px;
 }
+
+.the-content{
+	padding: 16px 16px 0px 16px;
+	margin-top: 0px;
+	margin-bottom: 16px;
+	border-style: solid;
+	border-color: green;
+	border-radius: 8px;
+}
+
+.article>h1{
+	margin-bottom: 0px;
+	margin-left: 16px;
+	margin-right: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
+	border-style: solid;
+	border-color: green;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-width: 0px;
+}
+
+.single-post>h1{
+	margin-bottom: 0px;
+	margin-left: 16px;
+	margin-right: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
+	border-style: solid;
+	border-color: green;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-width: 0px;
+	background-color: lime;
+}

@@ -3,7 +3,7 @@
 
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
-<div class="article" <?php post_class(); ?>>
+<div class="single-post" <?php post_class(); ?>>
 	<h1><a href="<?php esc_url( the_permalink() ); ?>"><?php the_title(); ?></a></h1>
 	<div class="the-content">
 	<div class="date"><?php the_date(); ?></div>
@@ -31,6 +31,8 @@
 	 <?php previous_posts_link('<div id="right"><table class="links"><tr><td class="text">Next page</td><td><div id="posts-button2">&raquo;</div></td></tr></table></div>'); ?>
 	 
 	 </div>
+	 
+	 <div>This is a single post page. Click <a href="http://hartmanprogramming.com">here</a> to return to the main page.</div>
 	
 </body>
 </html>

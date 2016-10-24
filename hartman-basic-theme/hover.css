@@ -1,0 +1,17 @@
+a:hover{
+	color: lime;
+}
+
+li>a:hover{
+	background: lime;
+	color: black;
+	border-color: green;
+}
+
+.title:hover{
+	color: black;
+}
+
+.single-post>h1>a:hover{
+	color: black;
+}
