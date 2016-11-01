@@ -1,0 +1,99 @@
+.bbp-forum-title{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: green;
+}
+
+.bbp-forum-title:hover{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: lime;
+}
+
+.bbp-forum-freshness>a{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: green;
+}
+
+.bbp-forum-freshness>a:hover{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: lime;
+}
+
+.bbp-topic-permalink{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: green;
+}
+
+.bbp-topic-permalink:hover{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: lime;
+}
+
+.bbp-topic-freshness>a{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: green;
+}
+
+.bbp-topic-freshness>a:hover{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: lime;
+}
+
+.bbp-forums{
+	color: black;
+}
+
+.forum-titles{
+	color: black;
+}
+
+.bbp-body{
+	color: black;
+}
+
+.bbp-topic-started-by{
+	color: black;
+}
+
+.bbp-header>div{
+	color: black;
+}
+
+.bbp-reply-post-date{
+	color: black;
+}
+
+.bbp-author-role{
+	color: black;
+}
+
+.bbp-reply-content>p{
+	color: black;
+}
+
+.bbp-footer>div{
+	color: black;
+}
