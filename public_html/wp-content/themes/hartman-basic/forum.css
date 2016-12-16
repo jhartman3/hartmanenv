@@ -1,0 +1,33 @@
+.bbp-forum-title,
+.bbp-forum-freshness>a,
+.bbp-topic-permalink,
+.bbp-topic-freshness>a{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: green;
+}
+
+.bbp-forum-title:hover,
+.bbp-forum-freshness>a:hover,
+.bbp-topic-permalink:hover,
+.bbp-topic-freshness>a:hover{
+	background: none;
+	padding: 0px 0px 0px 0px;
+	border-style: none;
+	border-radius: 0px;
+	color: lime;
+}
+
+.bbp-forums,
+.forum-titles,
+.bbp-body,
+.bbp-topic-started-by,
+.bbp-header>div,
+.bbp-reply-post-date,
+.bbp-author-role,
+.bbp-reply-content>p,
+.bbp-footer>div{
+	color: black;
+}
